@@ -1,0 +1,79 @@
+[
+  {
+    "package": "numpy",
+    "version": "2.2.6",
+    "project_license": "BSD-3-Clause",
+    "bundled_in_release": false,
+    "metadata_license": "Copyright (c) 2005-2024, NumPy Developers."
+  },
+  {
+    "package": "scipy",
+    "version": "1.15.2",
+    "project_license": "BSD-3-Clause",
+    "bundled_in_release": false,
+    "metadata_license": "Copyright (c) 2001-2002 Enthought, Inc. 2003-2024, SciPy Developers."
+  },
+  {
+    "package": "pandas",
+    "version": "2.3.3",
+    "project_license": "BSD-3-Clause",
+    "bundled_in_release": false,
+    "metadata_license": "BSD 3-Clause License"
+  },
+  {
+    "package": "scikit-learn",
+    "version": "1.7.2",
+    "project_license": "BSD-3-Clause",
+    "bundled_in_release": false,
+    "metadata_license": "BSD-3-Clause"
+  },
+  {
+    "package": "anndata",
+    "version": "0.11.4",
+    "project_license": "BSD-3-Clause",
+    "bundled_in_release": false,
+    "metadata_license": "BSD-3-Clause"
+  },
+  {
+    "package": "threadpoolctl",
+    "version": "3.6.0",
+    "project_license": "BSD-3-Clause",
+    "bundled_in_release": false,
+    "metadata_license": "BSD-3-Clause"
+  },
+  {
+    "package": "PyYAML",
+    "version": "6.0.3",
+    "project_license": "MIT",
+    "bundled_in_release": false,
+    "metadata_license": "MIT"
+  },
+  {
+    "package": "pytest",
+    "version": "9.0.3",
+    "project_license": "MIT",
+    "bundled_in_release": false,
+    "metadata_license": "MIT"
+  },
+  {
+    "package": "torch",
+    "version": "2.5.1",
+    "project_license": "BSD-3-Clause",
+    "bundled_in_release": false,
+    "metadata_license": "BSD-3-Clause"
+  },
+  {
+    "package": "setuptools",
+    "version": "82.0.1",
+    "project_license": "MIT",
+    "bundled_in_release": false,
+    "metadata_license": "MIT"
+  },
+  {
+    "package": "wheel",
+    "version": "0.46.3",
+    "project_license": "MIT",
+    "bundled_in_release": false,
+    "metadata_license": "MIT"
+  }
+]

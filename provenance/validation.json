@@ -1,0 +1,11 @@
+{
+  "core_tests_passed": 57,
+  "quickstart_cells": 960,
+  "heldout_example_eligible_donors": 4,
+  "heldout_example_tested_genes": 30,
+  "final_DL_function_AST_identical": true,
+  "copied_source_hashes_match": true,
+  "wheel_build": "passed",
+  "remote_published": false,
+  "license": "MIT"
+}

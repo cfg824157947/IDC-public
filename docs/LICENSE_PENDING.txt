@@ -1,0 +1,1 @@
+Resolved: MIT approved by the author on 2026-11-04. See the root LICENSE and THIRD_PARTY_NOTICES.md.

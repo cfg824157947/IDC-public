@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0",
+  "target": "https://github.com/cfg824157947/IDC",
+  "license": "MIT",
+  "copyright": "2026 Fengge Chang and IDC contributors",
+  "third_party_vendored_code_found": false,
+  "dependency_license_conflicts_found": false,
+  "dependency_scope": "source-only release; dependencies not redistributed",
+  "private_absolute_paths_found": false,
+  "credential_patterns_found": false,
+  "restricted_data_files_found": false,
+  "all_python_files_byte_identical_to_validated_v1": true,
+  "python_files_checked": 26,
+  "core_tests_passed": 57,
+  "max_file_bytes": 42544,
+  "publication_performed": false
+}
